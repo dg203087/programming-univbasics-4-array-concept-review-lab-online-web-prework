@@ -1,6 +1,6 @@
 
 
-def find_element_index(array, value_to_find) #takes in 2 
+def find_element_index(array, value_to_find) # takes in 2 
   # return the index 
   # no value return nil 
 end
